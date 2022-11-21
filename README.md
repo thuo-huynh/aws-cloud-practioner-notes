@@ -7,16 +7,18 @@ Some notes of mine in progress learning AWS Cloud practioner.
 
 ## Notes
 
- - [IAM]()
- - [S3]()
- - [CloudFront]()
- - [Snowball, Storage Gateway]()
- - [Cloudwatch Cloudtrail]()
- - [Database]()
- - [Route53]()
- - [VPC]()
- - [Applications]()
- - [Serverless]()
+ - [IAM](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/iam.md)
+ - [S3](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/s3.md)
+ - [CloudFront](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/cloud_front.md)
+ - [Snowball]()
+ - [Storage Gateway]()
+ - [Cloudtrail](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/cloud_watch.md)
+ - [Cloudtrail](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/cloud_trail.md)
+ - [Database](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/database.md)
+ - [Route53](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/route53.md)
+ - [VPC](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/vpc.md)
+ - [Applications](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/application.md)
+ - [Serverless](https://github.com/HuynhNgocThuong/aws-cloud-practioner-notes/blob/main/serverless.md)
 
 
 ## Authors
