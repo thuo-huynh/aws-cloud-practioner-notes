@@ -10,3 +10,8 @@
 -  They’re separate from each other, so that they’re isolated from disasters
 -  They’re connected with high bandwidth, ultra-low latency networking
 -![image](https://user-images.githubusercontent.com/22877952/203110148-4af58b33-a5c5-466a-9b90-c98b2943c6d1.png)
+
+### AWS Responsibility
+- CUSTOMER = RESPONSIBILITY FOR THE SECURITY IN THE CLOUD
+- AWS = RESPONSIBILITY FOR THE SECURITY OF THE CLOUD
+
