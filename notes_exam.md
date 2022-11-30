@@ -8,6 +8,6 @@
 
 - A customer gateway is a resource that you create in AWS that represents the customer gateway device in your on-premises network.
 
-[Site-to-Site VPN](./images/exam-topic-01.png)
+![Site-to-Site VPN](./images/exam-topic-01.png)
 
 Answer: https://docs.aws.amazon.com/vpn/latest/s2svpn/how_it_works.html
