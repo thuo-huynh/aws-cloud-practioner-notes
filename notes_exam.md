@@ -11,3 +11,12 @@
 ![Site-to-Site VPN](./images/exam-topic-01.png)
 
 Answer: https://docs.aws.amazon.com/vpn/latest/s2svpn/how_it_works.html
+
+## AWS Trusted Advisor analyzes your AWS environment and provides best practice recommendations for which of the following categories?
+
+- Cost optimization
+- Performance
+- Security
+- Fault tolerance
+- Service limits
+
